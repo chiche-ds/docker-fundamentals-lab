@@ -1,21 +1,22 @@
-# Docker Fundamentals Lab 
-Hands -on  exercises completed as the first project of my Docker mastery journey. Each exercise demonstrates a core Docker concept with commands, outputs and explanations  written in my own words 
 
-## Author 
-Chi Che - Infrastructure security and automation engineer 
+# Docker Fundamentals Lab
 
-## Structure 
-- exercise/ - 15 exercises each in its own folder with a README
-- screenshots/ - terminal output  captures
-- Notes.md /  synthesis of concepts learned across all exercises
+Hands-on exercises completed as part of my Docker mastery journey.
+Each exercise demonstrates a core Docker concept with commands, output, and explanations.
 
-## Topics Covered 
+## Author
+Chi Che — aspiring Infrastructure Security & Automation Engineer
+
+## Structure
+- `exercises/` — 15 exercises, each in its own folder with a README
+- `screenshots/` — terminal output captures
+- `NOTES.md` — concepts learned and gotchas encountered
+
+## Topics Covered
 - Container lifecycle management
-- image inspection and layers
-- Container to host process visibility (namespace in action )
-- volume and bind mounts fundamentals
-- Resource constraints ( cgroups in action )
+- Image inspection and layers
+- Container networking basics
+- Volume and bind mount fundamentals
+- Resource constraints (cgroups in action)
 - Logs, exec, and debugging
-- Restart policies and operational patterns
-- Security observations across the basics
-- 
+
